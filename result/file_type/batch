@@ -1,3 +1,0 @@
-/usr/bin/batch: setuid Mach-O universal binary with 2 architectures
-/usr/bin/batch (for architecture i386):	Mach-O executable i386
-/usr/bin/batch (for architecture x86_64):	Mach-O 64-bit executable x86_64
