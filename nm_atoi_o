@@ -2,3 +2,5 @@
                  U _ft_isdigit
 0000000000000000 T _ft_atoi
                  U _ft_isdigit
+0000000000000000 T _ft_atoi
+                 U _ft_isdigit
