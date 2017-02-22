@@ -1,0 +1,17 @@
+Fat headers
+fat_magic 0xcafebabe
+nfat_arch 2
+architecture 0
+    cputype 7
+    cpusubtype 3
+    capabilities 0x0
+    offset 4096
+    size 38416
+    align 2^12 (4096)
+architecture 1
+    cputype 16777223
+    cpusubtype 3
+    capabilities 0x80
+    offset 45056
+    size 38464
+    align 2^12 (4096)

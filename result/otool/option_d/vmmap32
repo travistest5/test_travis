@@ -1,0 +1,3 @@
+/usr/bin/vmmap32:
+(__DATA,__data) section
+00009718	50 00 00 00 
