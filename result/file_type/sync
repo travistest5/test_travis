@@ -1,1 +1,3 @@
-/bin/sync: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.24, BuildID[sha1]=279a166baaf157eaa2699ec7d004abe8b0ac7aa7, stripped
+/bin/sync: Mach-O universal binary with 2 architectures
+/bin/sync (for architecture i386):	Mach-O executable i386
+/bin/sync (for architecture x86_64):	Mach-O 64-bit executable x86_64
