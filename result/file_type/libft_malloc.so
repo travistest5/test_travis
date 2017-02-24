@@ -1,1 +1,1 @@
-./libft_malloc.so: Mach-O 64-bit dynamically linked shared library x86_64
+./libft_malloc.so: ELF 64-bit LSB  shared object, x86-64, version 1 (SYSV), dynamically linked, BuildID[sha1]=167b1508b3ae6fbe472b0c8f947ef8ebc22ea654, not stripped
